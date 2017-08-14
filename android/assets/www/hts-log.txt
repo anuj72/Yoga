@@ -1,0 +1,39 @@
+HTTrack3.49-2 launched on Sun, 13 Aug 2017 16:39:45 at http://www.360wellsols.com/
+(winhttrack http://www.360wellsols.com/ -W -O "/root/website/webapp" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:39:49	Warning: 	Note: due to www.360wellsols.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+16:40:18	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): www.360wellsols.com/wp-content/themes/noo-hermosa/includes/admin_assets/js/min/noo-megamenu.min.js?ver=4.8.1
+16:43:30	Warning: 	File not parsed, looks like binary: www.360wellsols.com/wp-content/cache/wpfc-minified/342461548f9f23fb45d44c2935ffaeed/1502530583index.css
+16:43:30	Warning: 	Warning: store application/octet-stream without scan: /root/website/webapp/www.360wellsols.com/wp-content/cache/wpfc-minified/342461548f9f23fb45d44c2935ffaeed/1502530583index.css
+16:52:01	Error: 	"Not Found" (404) at link www.360wellsols.com/wp-content/plugins/pricingtable/css/wood_pattern.png (from www.360wellsols.com/wp-content/cache/wpfc-minified/634c8eb42781e587bb7e9b355e9f60e0/1502530583index.css)
+16:52:06	Warning: 	Retry after error -2 (Receive Time Out) at link www.360wellsols.com/?wordfence_logHuman=1&hid=D595A5ADF164FF431FF39C98D5B16C15 (from www.360wellsols.com/about-us/)
+16:52:08	Warning: 	Retry after error -2 (Receive Time Out) at link www.360wellsols.com/wp-content/uploads/2016/05/bg-about-2.png?id=1268 (from www.360wellsols.com/about-us/)
+16:52:09	Warning: 	Retry after error -2 (Receive Time Out) at link www.360wellsols.com/wp-content/cache/wpfc-minified/4ac89ea37f631cbba172f2a55990467e/1502532704index.css (from www.360wellsols.com/about-us/)
+16:52:29	Error: 	"Not Found" (404) at link www.360wellsols.com/wp-content/plugins/arforms/ (from www.360wellsols.com/applicationconsultation/)
+16:56:01	Warning: 	Unexpected socket error during pre-loop
+16:56:42	Warning: 	Unexpected socket error during pre-loop
+16:57:23	Warning: 	Unexpected socket error during pre-loop
+16:58:04	Warning: 	Unexpected socket error during pre-loop
+16:58:45	Warning: 	Unexpected socket error during pre-loop
+16:59:26	Warning: 	Unexpected socket error during pre-loop
+17:00:22	Warning: 	Unexpected socket error during pre-loop
+17:01:10	Warning: 	Unexpected socket error during pre-loop
+17:01:51	Warning: 	Unexpected socket error during pre-loop
+17:02:32	Warning: 	Unexpected socket error during pre-loop
+17:10:14	Error: 	"Not Found" (404) at link www.360wellsols.com/wp-content/plugins/arforms/images/ajax_loader.gif (from www.360wellsols.com/wp-content/cache/wpfc-minified/6306b47b856fa8d3e48d3224a3c44640/1502541673index.css)
+17:10:14	Warning: 	Retry after error -2 (Connect Time Out) at link www.360wellsols.com/wp-content/plugins/pricingtable/themes/flat/style.css?ver=4.8.1 (from www.360wellsols.com/?plugin=ARForms)
+17:10:14	Warning: 	Retry after error -4 (Receive Error) at link www.360wellsols.com/wp-content/plugins/pricingtable/themes/rounded/style.css?ver=4.8.1 (from www.360wellsols.com/?plugin=ARForms)
+17:10:14	Warning: 	Retry after error -4 (Receive Error) at link www.360wellsols.com/wp-content/plugins/pricingtable/themes/sonnet/style.css?ver=4.8.1 (from www.360wellsols.com/?plugin=ARForms)
+17:10:15	Warning: 	Retry after error -4 (Receive Error) at link www.360wellsols.com/wp-content/plugins/pricingtable/fonts/ahronbd.ttf?ver=4.8.1 (from www.360wellsols.com/?plugin=ARForms)
+17:10:16	Warning: 	Retry after error -4 (Receive Error) at link www.360wellsols.com/wp-content/plugins/pricingtable/fonts/Bellerose.ttf?ver=4.8.1 (from www.360wellsols.com/?plugin=ARForms)
+17:10:21	Warning: 	Retry after error -4 (Receive Error) at link www.360wellsols.com/wp-content/plugins/pricingtable/css/style-admin.css?ver=4.8.1 (from www.360wellsols.com/?plugin=ARForms)
+17:10:21	Warning: 	Retry after error -4 (Receive Error) at link www.360wellsols.com/wp-content/plugins/dvgallery/css/style.css?ver=1.0 (from www.360wellsols.com/?plugin=ARForms)
+17:10:23	Warning: 	Retry after error -4 (Receive Error) at link www.360wellsols.com/wp-content/plugins/dvgallery/css/lightgallery.css?ver=1.0 (from www.360wellsols.com/?plugin=ARForms)
+17:10:23	Warning: 	Retry after error -4 (Receive Error) at link www.360wellsols.com/wp-content/plugins/dvgallery/css/owl.css?ver=1.0 (from www.360wellsols.com/?plugin=ARForms)
+17:10:25	Warning: 	Retry after error -4 (Receive Error) at link www.360wellsols.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.3.1.5 (from www.360wellsols.com/?plugin=ARForms)
+17:10:25	Warning: 	Retry after error -4 (Receive Error) at link www.360wellsols.com/wp-content/plugins/noo-timetable/assets/css/noo-timetable-schedule.css (from www.360wellsols.com/?plugin=ARForms)

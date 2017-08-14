@@ -1,0 +1,7 @@
+Mirror in progress since Sun, 13 Aug 2017 16:39:45 .. please wait!
+winhttrack http://www.360wellsols.com/ -W -O "/root/website/webapp" -%v 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=3537
+UID=0
+GID=0
+START=1502622585
